@@ -1,0 +1,16 @@
+  991  git pull
+  992  git pull origin2 main
+  993  ls
+  994  git brach
+  995  git branch
+  996  ls
+  997  git add --a
+  998  git commit -m "mesaage"
+  999  git status
+ 1000  git push origin2 main
+ 1001  ls
+ 1002  curl --output style.css https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-JS0101EN-SkillsNetwork/health1.css
+ 1003  vim style.css
+ 1004  ls
+ 1005  :history
+ 1006  history
